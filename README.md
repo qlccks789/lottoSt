@@ -1,4 +1,4 @@
-# [lottoSt 로또 기반을 이용한 프로그램(조건)]
+<span style="color:red">Red Text# [lottoSt 로또 기반을 이용한 프로그램(조건)]</span>
 
 > #### Arguments 입력값 2종류
 >> 1. LottoMaker 23,12,9,2,43,32 1:1,2:3,3:10,4:50,5:100 500       1~5등, 미등수가 순서대로 나옴</br>
