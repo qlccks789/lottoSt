@@ -1,4 +1,4 @@
-# lottoSt 로또 기반을 이용한 프로그램(조건)
+# [lottoSt 로또 기반을 이용한 프로그램(조건)]
 
 > #### Arguments 입력값 2종류
 >> 1. LottoMaker 23,12,9,2,43,32 1:1,2:3,3:10,4:50,5:100 500       1~5등, 미등수가 순서대로 나옴</br>
@@ -11,9 +11,9 @@
 >> 4. args[3] -> TRUE(정렬) 옵션</br>
 
 
-1. [args lenght vaildation]
-- args length < 3 이면 ERR
-- args length > 3 args[3] 값 받기 - TRUE(정렬) 옵션값
+> #### 1. [args lenght vaildation]
+>> - args length < 3 이면 ERR
+>> - args length > 3 args[3] 값 받기 - TRUE(정렬) 옵션값
 
 1-1. [23,12,9,2,13,1 (1등 숫자 받기)]
 - 받은 번호가 6개가 맞는지 - 넘으면 ERR
